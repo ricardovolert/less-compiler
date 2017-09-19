@@ -27,7 +27,7 @@ public class CharClass {
   // Character class bits that can be set/cleared in a bit mask
 
   public static final int NONE = 0;
-  
+
   public static final int DIGIT = 1 << 0;
 
   public static final int LOWERCASE = 1 << 1;

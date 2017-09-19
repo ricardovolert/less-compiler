@@ -3,7 +3,7 @@
 
 A Java implementation of the LESS CSS preprocessor language.
 
-[![Build Status](https://travis-ci.org/Squarespace/less-compiler.svg?branch=2.x)](https://travis-ci.org/Squarespace/less-compiler?branch=2.x)
+[![Build Status](https://travis-ci.org/Squarespace/less-compiler.svg?branch=master)](https://travis-ci.org/Squarespace/less-compiler?branch=master)
 [![Coverage Status](https://coveralls.io/repos/Squarespace/less-compiler/badge.svg?branch=master&service=github)](https://coveralls.io/github/Squarespace/less-compiler?branch=master)
 
 Current [Less.js][lessjs] compatibility level:
